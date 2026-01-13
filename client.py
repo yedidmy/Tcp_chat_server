@@ -2,7 +2,7 @@ import socket
 import threading
 
 
-SERVER_IP = "127.0.0.1"
+SERVER_IP = "10.10.5.27"
 SERVER_PORT = 666
 BUFFER_SIZE = 1024
 

@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = "127.0.0.1"
+HOST = "10.10.5.27"
 LISTEN_PORT = 666
 BUFFER_SIZE = 1024
 
